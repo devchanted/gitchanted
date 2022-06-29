@@ -7,4 +7,8 @@
    ```
    git clone <git url>
    ```
-4. 
+4. Setup your configurations
+   ```
+   git config user.name <username>
+   git config user.email <user-email>
+   ```
